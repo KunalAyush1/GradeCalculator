@@ -1,0 +1,23 @@
+1. Separation of concerns 
+ - in prototype logic notebook logic and input are mixed so we cant test functions indeopendently
+ - we cant reuse the logic for streamlit UI which we have to!!
+ - bugs become hard to isolate
+ Solution is - A function should either compute , collect or display not all three
+2. Linear execution 
+- Python scripts run top -> bottom
+- crash immediately if something is undefined
+Solution is - Every name must exit before it is used
+3. Input must become data not interaction
+Solution is - Input layer returns data - it never processes it
+3. Validation of CSV files is necessary
+.......
+Propose solution ------
+V.0.0.1
+Minimal architecture-
+-- input_layer.py 
+-- statistics.py 
+--grading_policy.py 
+--grading_engine.py
+--main.py 
+--README.md
+
