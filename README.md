@@ -15,9 +15,12 @@ A <strong>relative grading system</strong> based on class
 supporting both a <strong>CLI</strong> and a <strong>Streamlit web UI</strong>.
 </p>
 <p>
-Live Demo:
+<p>
+🚀 <strong>Live App:</strong>
 <a href="https://relative-grade-calculator-kunal.streamlit.app/" target="_blank">
-    https://relative-grade-calculator-kunal.streamlit.app/
+    Relative Grade Calculator
+</a>
+</p>
 </a>
 </p>
 
