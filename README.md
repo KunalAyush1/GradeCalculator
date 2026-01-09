@@ -6,12 +6,19 @@
 </head>
 <body>
 
+
 <h1>📊 Grade Calculator</h1>
 
 <p>
 A <strong>relative grading system</strong> based on class
 <strong>Mean</strong> and <strong>Standard Deviation</strong>,
 supporting both a <strong>CLI</strong> and a <strong>Streamlit web UI</strong>.
+</p>
+<p>
+Live Demo:
+<a href="https://relative-grade-calculator-kunal.streamlit.app/" target="_blank">
+    https://relative-grade-calculator-kunal.streamlit.app/
+</a>
 </p>
 
 <hr>
